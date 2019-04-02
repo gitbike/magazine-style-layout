@@ -5,6 +5,10 @@ body {
   font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;
 }
 
+.post * {
+  margin: 0;
+}
+
 .post-fig01 .image {
   width: 1500px;
   height: 1000px;
