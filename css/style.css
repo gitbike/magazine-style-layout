@@ -127,6 +127,7 @@ body {
 .post-fig02 {
   grid-column: 1 / 3;
   grid-row: 9 / 13;
+  align-self: center;
 }
 
 .post-fig02 figcaption {
