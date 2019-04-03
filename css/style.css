@@ -119,6 +119,13 @@ body {
   content: close-quote;
 }
 
+.post-catch::before,
+.post-catch::after {
+  color: #aaa;
+  font-size: 2em;
+  font-weight: 900;
+}
+
 /* 文章02 */
 
 .post-text02 {
