@@ -183,3 +183,20 @@ body {
   height: 2em;
   line-height: 2em;
 }
+
+/* レスポンシブ */
+
+@media (min-width: 1000px) {
+  .post {
+    width: 1000px;
+    box-sizing: border-box;
+    margin: auto;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 999px) {
+  .post {
+    font-size: calc(16px + 4 * (100vw - 768px) / 232);
+  }
+}
