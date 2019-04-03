@@ -89,6 +89,7 @@ body {
 .post-fig01 {
   grid-column: 3 / 6;
   grid-row: 3 / 7;
+  margin-right: -30px;
 }
 
 .post-fig01 .image {
