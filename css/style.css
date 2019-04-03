@@ -14,3 +14,8 @@ body {
   height: auto;
   vertical-align: bottom;
 }
+
+/* グリッド */
+.post {
+  display: grid;
+}
