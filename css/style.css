@@ -140,4 +140,6 @@ body {
 .post-sns {
   grid-column: 5;
   grid-row: 8 / 13;
+  justify-self: end;
+  align-self: center;
 }
