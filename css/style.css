@@ -153,6 +153,7 @@ body {
 .post-sns a {
   font-size: 1.5em;
   color: #aaa;
+  text-decoration: none;
   text-align: center;
   border: 1px solid #aaa;
   border-radius: 50%;
