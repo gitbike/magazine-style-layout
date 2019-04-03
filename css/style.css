@@ -110,6 +110,7 @@ body {
   text-align: center;
   quotes: '“' '”';
   display: grid;
+  grid-auto-flow: column;
   grid-column-gap: 5px;
 }
 
