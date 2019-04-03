@@ -103,6 +103,11 @@ body {
 .post-text02 {
   grid-column: 3 / 5;
   grid-row: 8 / 13;
+  font-size: 0.75em;
+  font-weight: 200;
+  line-height: 2;
+  text-align: justify;
+  text-justify: inter-ideograph;
 }
 
 /* 画像02 */
