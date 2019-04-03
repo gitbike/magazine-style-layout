@@ -91,6 +91,11 @@ body {
   grid-row: 3 / 7;
 }
 
+.post-fig01 .image {
+  height: 100%;
+  object-fit: cover;
+}
+
 /* キャッチコピー */
 
 .post-catch {
