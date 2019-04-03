@@ -194,3 +194,9 @@ body {
     font-size: 20px;
   }
 }
+
+@media (min-width: 769px) and (max-width: 999px) {
+  .post {
+    font-size: calc(16px + 4 * (100vw - 768px) / 232);
+  }
+}
