@@ -96,6 +96,8 @@ body {
 .post-catch {
   grid-column: 3 / 6;
   grid-row: 7;
+  font-size: 1.25em;
+  line-height: 1.5;
 }
 
 /* 文章02 */
