@@ -232,5 +232,6 @@ body {
   .post-date {
     grid-column: 1;
     grid-row: 2;
+    align-self: end;
   }
 }
