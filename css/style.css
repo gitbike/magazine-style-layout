@@ -183,3 +183,13 @@ body {
   height: 2em;
   line-height: 2em;
 }
+
+/* レスポンシブ */
+
+@media (min-width: 1000px) {
+  .post {
+    width: 1000px;
+    box-sizing: border-box;
+    margin: auto;
+  }
+}
