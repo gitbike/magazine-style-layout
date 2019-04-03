@@ -23,6 +23,7 @@ body {
   grid-template-rows: repeat(12, 1fr);
   grid-column-gap: 40px;
   padding: 0 30px;
+  font-family: 'Noto Sans Japanese', sans-serif;
 }
 
 /* タイトル */
