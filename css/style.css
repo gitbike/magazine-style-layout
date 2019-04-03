@@ -207,6 +207,7 @@ body {
     grid-template-rows: none;
     grid-row-gap: 20px;
     padding: 20px;
+    font-size: 14.4px;
   }
 
   .post > *,
