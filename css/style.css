@@ -70,7 +70,7 @@ body {
 /* キャッチコピー */
 
 .post-catch {
-  grid-column: 3 / 7;
+  grid-column: 3 / 6;
   grid-row: 7;
 }
 
