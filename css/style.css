@@ -108,6 +108,15 @@ body {
   font-size: 1.25em;
   line-height: 1.5;
   text-align: center;
+  quotes: '“' '”';
+}
+
+.post-catch::before {
+  content: open-quote;
+}
+
+.post-catch::after {
+  content: close-quote;
 }
 
 /* 文章02 */
