@@ -200,3 +200,10 @@ body {
     font-size: calc(16px + 4 * (100vw - 768px) / 232);
   }
 }
+
+@media (max-width: 767px) {
+  .post {
+    grid-template-columns: none;
+    grid-template-rows: none;
+  }
+}
