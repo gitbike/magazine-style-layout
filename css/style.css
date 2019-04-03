@@ -215,4 +215,22 @@ body {
     grid-column: auto;
     grid-row: auto;
   }
+
+  /* タイトル */
+  .post-title {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  /* サブタイトル */
+  .post-sub {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  /* 日付 */
+  .post-date {
+    grid-column: 1;
+    grid-row: 2;
+  }
 }
