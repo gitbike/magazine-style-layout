@@ -205,6 +205,7 @@ body {
   .post {
     grid-template-columns: none;
     grid-template-rows: none;
+    padding: 20px;
   }
 
   .post > *,
