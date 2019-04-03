@@ -129,6 +129,11 @@ body {
   grid-row: 9 / 13;
 }
 
+.post-fig02 figcaption {
+  font-size: 0.625em;
+  font-weight: 500;
+}
+
 /* SNSメニュー */
 
 .post-sns {
