@@ -57,6 +57,8 @@ body {
 .post-date {
   grid-column: 5;
   grid-row: 2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.875rem;
 }
 
 /* リード文 */
