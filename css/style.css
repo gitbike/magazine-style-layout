@@ -206,4 +206,10 @@ body {
     grid-template-columns: none;
     grid-template-rows: none;
   }
+
+  .post > *,
+  .post::after {
+    grid-column: auto;
+    grid-row: auto;
+  }
 }
