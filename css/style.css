@@ -152,9 +152,11 @@ body {
 
 .post-sns a {
   font-size: 1.5em;
+  text-align: center;
   border: 1px solid;
   border-radius: 50%;
   display: block;
   width: 2em;
   height: 2em;
+  line-height: 2em;
 }
