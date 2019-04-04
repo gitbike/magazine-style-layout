@@ -217,6 +217,7 @@ body {
   }
 
   /* タイトル */
+  
   .post-title {
     grid-column: 1;
     grid-row: 1;
@@ -224,6 +225,7 @@ body {
   }
 
   /* サブタイトル */
+
   .post-sub {
     grid-column: 1;
     grid-row: 2;
@@ -231,6 +233,7 @@ body {
   }
 
   /* 日付 */
+
   .post-date {
     grid-column: 1;
     grid-row: 2;
@@ -238,17 +241,20 @@ body {
   }
 
   /* リード文 */
+
   .post-lead {
     font-size: 16px;
   }
 
   /* 画像01の親要素 */
+
   .post-fig01 {
     margin-right: -20px;
     margin-left: -20px;
   }
 
   /* キャッチコピー */
+
   .post-catch {
     margin-left: 0px;
     margin-top: -35px;
@@ -259,12 +265,14 @@ body {
   }
 
   /* 文章01, 文章02 */
+
   .post-text01,
   .post-text02 {
     font-size: 15px;
   }
 
   /* SNSボタン */
+
   .post-sns {
     justify-self: center;
   }
