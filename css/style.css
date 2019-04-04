@@ -236,4 +236,9 @@ body {
     grid-row: 2;
     align-self: end;
   }
+
+  /* リード文 */
+  .post-lead {
+    font-size: 16px;
+  }
 }
