@@ -264,4 +264,9 @@ body {
     font-size: 15px;
   }
 
+  /* SNSボタン */
+  .post-sns ul {
+    grid-auto-flow: column;
+  }
+
 }
