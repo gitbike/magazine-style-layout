@@ -241,4 +241,10 @@ body {
   .post-lead {
     font-size: 16px;
   }
+
+  /* 画像01の親要素 */
+  .post-fig01 {
+    margin-right: -20px;
+    margin-left: -20px;
+  }
 }
